@@ -17,7 +17,7 @@ from statistics import Statistics
 
 class Bot:
     def __init__(self):
-        self.BOT_TOKEN = "1740832184:AAGf2ZFfdLVhSdjVeuzjX08OeMoEsRaPOuQ"
+        self.BOT_TOKEN = ""
         self.parser = Parser()
         self.statistics = Statistics()
 
